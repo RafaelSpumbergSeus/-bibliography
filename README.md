@@ -3,21 +3,19 @@ Este repositório foi criado para organizar e compartilhar referências bibliogr
 
 📂 Estrutura do Repositório
 
-📦 bibliography  
-├── 📂 data  
-│   ├── 📂 Data_Science
-│   │   └──📄   
-│   ├── 📂 Data_Engineering    
-│   │   └──📄  
-│   ├──📂 Data_Analysis    
-│   │   └──📄  
-│   └──📂 Data_Visualization  
-│       └──📄  
-├── 📂 cloud 
-│   ├── 📄 projeto-x.md  
-│   ├── 📄 pesquisa-y.md  
-│   └── ... (outros projetos)
-└── 📂 machine_learning
+**📦 bibliography**  
+- **📂 data**  
+  - 📂 Data_Science 
+  - 📂 Data_Engineering 
+  - 📂 Data_Analysis 
+  - 📂 Data_Visualization  
+- **📂 cloud**  
+  - 📄   
+  - 📄   
+  - 📄   
+- **📂 machine_learning**  
+  - 📄  
+  - 📄  
 
 ✍️ Como Contribuir
 Adicionar novas referências:
