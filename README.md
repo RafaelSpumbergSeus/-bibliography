@@ -4,6 +4,6 @@ Este repositório foi criado para organizar e compartilhar referências bibliogr
 ✍️ Como Contribuir
 Adicionar novas referências:
 
-1º Escolha o arquivo apropriado ou crie um novo
-2º Adicione as referências no formato padrão (veja abaixo)
-3º Faça um pull request com suas alterações
+- Escolha o arquivo apropriado ou crie um novo
+- Adicione as referências no formato padrão (veja abaixo)
+- Faça um pull request com suas alterações
