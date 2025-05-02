@@ -4,18 +4,28 @@ Este repositório foi criado para organizar e compartilhar referências bibliogr
 📂 Estrutura do Repositório
 
 **📦 bibliography**  
+
 - **📂 data**  
-  - 📂 Data_Science 
-  - 📂 Data_Engineering 
-  - 📂 Data_Analysis 
-  - 📂 Data_Visualization  
+    - 📂 Data_Science 
+    - 📂 Data_Engineering 
+    - 📂 Data_Analysis
+       
 - **📂 cloud**  
-  - 📄   
-  - 📄   
-  - 📄   
-- **📂 machine_learning**  
-  - 📄  
-  - 📄  
+    - 📂Azure
+    - 📂AWS
+  
+- **📂python/R**
+    - 📂Python
+    - 📂R
+
+- **📂machine_learning**  
+  
+
+
+
+
+    
+programming languages
 
 ✍️ Como Contribuir
 Adicionar novas referências:
